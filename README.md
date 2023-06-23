@@ -6,8 +6,8 @@ This script will scrape the wikipedia page of leaders from BE, FR, RA, RU and US
 
 ![first_paragraph](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/2144152c-1682-48c5-8170-d12903f02b65)
 
-I am using an API (country-leaders) to get this information. Documentation below:
-[https://country-leaders.onrender.com/docs]
+I am using an API (country-leaders) to get this information. Documentation can be found here:
+([https://country-leaders.onrender.com/docs])
 
 The output of the script: 1 json file and 1 plain text file.
 The json file will contain all of the information that has been pulled from the API with an additional key:value pair (first_paragraph:"content of the first paragraph).
