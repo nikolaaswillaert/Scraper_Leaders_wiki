@@ -13,7 +13,7 @@ The json file will contain all of the information that has been pulled from the 
 The plain text file will only contain the cleaned plain text version of the first paragraph
 
 ### Example
-The following wiki page:
+The following wiki page:\n
 ![first_paragraph](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/2144152c-1682-48c5-8170-d12903f02b65)
 
 will result in (plain text):
