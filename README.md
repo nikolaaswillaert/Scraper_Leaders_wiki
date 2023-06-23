@@ -7,7 +7,7 @@ This script will scrape the wikipedia page of leaders from BE, FR, RA, RU and US
 ![first_paragraph](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/2144152c-1682-48c5-8170-d12903f02b65)
 
 I am using an API (country-leaders) to get this information. Documentation can be found here:
-([https://country-leaders.onrender.com/docs])
+https://country-leaders.onrender.com/docs
 
 The output of the script: 1 json file and 1 plain text file.
 The json file will contain all of the information that has been pulled from the API with an additional key:value pair (first_paragraph:"content of the first paragraph).
@@ -15,6 +15,7 @@ The json file will contain all of the information that has been pulled from the 
 The plain text file will only contain the cleaned plain text version of the first paragraph
 
 You will find an additional .pynb file (wikipedia_scraper.ipynb) that will guide you step by step on how I got to the end result.
+
 ## Installation
 Program was written using python 3.11. Please make sure you have python 3.11 installed.
 have added the requirements.txt file as wel if for some reason the code would not run:
