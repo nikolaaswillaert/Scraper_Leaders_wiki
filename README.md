@@ -28,9 +28,9 @@ python3 leaders_scraper.py
 or open in IDE and run the [label](leaders_scraper.py) file
 
 ## Timeline
-Approximately 5.5 hours to completion
-- Started assignment on 14/06/2023 - 9.30 (am)
-- Finished assignment on 14/06/2023 - 15:00 (pm)
+Approximately 2 days (approx. 16 hours) to completion
+- Started assignment on 21/06/2023 - 9.30 (am)
+- Finished assignment on 23/06/2023 - 10:00 (am)
 
 ## Personal situation
 This project was done as part of the AI Boocamp at BeCode.org
