@@ -22,7 +22,7 @@ The plain text file will only contain the cleaned plain text version of the firs
 ```Guy Maurice Marie-Louise Verhofstadt  (Dendermonde, 11 april 1953) is een Belgisch politicus voor de Open Vlaamse Liberalen en Democraten (Open Vld). Hij was premier van België van 12 juli 1999 tot 20 maart 2008 in drie regeringen. Nu is hij lid van het Europees Parlement, waar hij van 2009 tot 2019 fractieleider van de Alliantie van Liberalen en Democraten voor Europa (ALDE) was.```
 
 
-## wrench: Installation :wrench:
+## :wrench: Installation :wrench:
 Program was written using python 3.11. Please make sure you have python 3.11 installed.
 have added the requirements.txt file as wel if for some reason the code would not run:
 ```
