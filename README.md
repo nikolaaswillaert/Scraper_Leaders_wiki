@@ -8,7 +8,7 @@ I am using an **API (country-leaders) **to get this information. Documentation c
 https://country-leaders.onrender.com/docs
 
 The output of the script: **1 json file and 1 plain text file**.
-The json file will contain all of the information that has been pulled from the API with an additional key:value pair (first_paragraph:"content of the first paragraph).
+The json file will contain all of the information that has been pulled from the API with an additional key:value pair ("first_paragraph":"content of the first paragraph").
 
 The plain text file will only contain the cleaned plain text version of the first paragraph
 
