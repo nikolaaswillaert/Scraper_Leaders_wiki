@@ -17,7 +17,7 @@ The following wiki page:
 
 ![Pasted image](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/f80fe592-36b2-4e19-8b32-1f06b6e641f2)
 
-will result in (plain text):
+Will result in (plain text):
 
 ```Guy Maurice Marie-Louise Verhofstadt  (Dendermonde, 11 april 1953) is een Belgisch politicus voor de Open Vlaamse Liberalen en Democraten (Open Vld). Hij was premier van België van 12 juli 1999 tot 20 maart 2008 in drie regeringen. Nu is hij lid van het Europees Parlement, waar hij van 2009 tot 2019 fractieleider van de Alliantie van Liberalen en Democraten voor Europa (ALDE) was.```
 
