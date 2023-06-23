@@ -15,7 +15,7 @@ The plain text file will only contain the cleaned plain text version of the firs
 ### Example
 The following wiki page:
 
-![first_paragraph](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/2144152c-1682-48c5-8170-d12903f02b65)
+![Pasted image](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/f80fe592-36b2-4e19-8b32-1f06b6e641f2)
 
 will result in (plain text):
 
