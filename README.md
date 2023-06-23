@@ -37,7 +37,7 @@ cd Scraper_Leaders_wiki
 python3 leaders_scraper.py
 ```
 
-or open in IDE and run the [label](leaders_scraper.py) file
+or open in IDE and run the leaders_scraper.py file
 
 ## Timeline
 Approximately 2 days (approx. 16 hours) to completion
