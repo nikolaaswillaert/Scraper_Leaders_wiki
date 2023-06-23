@@ -1,4 +1,4 @@
-## Leader Scraper
+## Wikipedia First Paragraph Scraper
 
 ![wiki logo](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/026413dc-8653-44b0-bee3-d047c277ed15)
 
