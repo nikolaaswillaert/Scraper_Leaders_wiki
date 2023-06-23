@@ -2,6 +2,8 @@
 
 This script will scrape the wikipedia page of leaders from BE, FR, RA, RU and US and will return the first paragraph of that wikipedia page. The returned paragraph will be cleaned from phonetic pronunciation and other wiki-unique additions.
 
+![first_paragraph](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/2144152c-1682-48c5-8170-d12903f02b65)
+
 I am using an API (country-leaders) to get this information. Documentation below:
 https://country-leaders.onrender.com/docs
 
