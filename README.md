@@ -14,8 +14,6 @@ The json file will contain all of the information that has been pulled from the 
 
 The plain text file will only contain the cleaned plain text version of the first paragraph
 
-You will find an additional .pynb file (wikipedia_scraper.ipynb) that will guide you step by step on how I got to the end result.
-
 ## Installation
 Program was written using python 3.11. Please make sure you have python 3.11 installed.
 have added the requirements.txt file as wel if for some reason the code would not run:
