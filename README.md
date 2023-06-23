@@ -12,7 +12,7 @@ The json file will contain all of the information that has been pulled from the 
 
 The plain text file will only contain the cleaned plain text version of the first paragraph.
 
-### Example
+### :notebook_with_decorative_cover: Example :notebook_with_decorative_cover:
 **The following wiki page:**
 
 ![Pasted image](https://github.com/nikolaaswillaert/Scraper_Leaders_wiki/assets/106211266/f80fe592-36b2-4e19-8b32-1f06b6e641f2)
@@ -22,14 +22,14 @@ The plain text file will only contain the cleaned plain text version of the firs
 ```Guy Maurice Marie-Louise Verhofstadt  (Dendermonde, 11 april 1953) is een Belgisch politicus voor de Open Vlaamse Liberalen en Democraten (Open Vld). Hij was premier van België van 12 juli 1999 tot 20 maart 2008 in drie regeringen. Nu is hij lid van het Europees Parlement, waar hij van 2009 tot 2019 fractieleider van de Alliantie van Liberalen en Democraten voor Europa (ALDE) was.```
 
 
-## Installation :wrench:
+## wrench: Installation :wrench:
 Program was written using python 3.11. Please make sure you have python 3.11 installed.
 have added the requirements.txt file as wel if for some reason the code would not run:
 ```
 pip install -r requirements.txt
 ```
 
-## Usage
+## :bellhop_bell: Usage :bellhop_bell:
 Navigate to your workfolder (pro tip: use a virtual environment to avoid errors) and clone the repository:
 ```
 git clone git@github.com:nikolaaswillaert/Scraper_Leaders_wiki.git
@@ -39,7 +39,7 @@ python3 leaders_scraper.py
 
 or open in IDE and run the leaders_scraper.py file
 
-## Timeline
+## :stopwatch: Timeline :stopwatch:
 Approximately 2 days (approx. 16 hours) to completion
 - Started assignment on 21/06/2023 - 9.30 (am)
 - Finished assignment on 23/06/2023 - 10:00 (am)
